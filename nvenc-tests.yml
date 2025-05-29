@@ -2,7 +2,7 @@
 version: "2.0"
 services:
   service-1:
-    image: mcianni22/passage:nvenc-tests-v0.0.16
+    image: mcianni22/passage:nvenc-tests-ffmpeg-v0.0.16
     expose:
       - port: 80
         as: 80
